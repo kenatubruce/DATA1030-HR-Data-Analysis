@@ -1,9 +1,10 @@
 # DATA1030-HR-Data-Analysis
 Course DAT-1030 Assignment #5
+The Problem
+--
 
 The problem that being analyzed is how to try and predict the attrition of valuable employees. 
 The aim was to try and uncover the factors that lead to employee attrition and explore important questions such as ‘show me a breakdown of distance from home by job role and attrition’ or ‘compare average monthly income by education and attrition’. This is a fictional data set created by IBM data scientists. It is apart of the IBM HR Analytics Employee Attrition & Performance initiative.
-
 
 Insights found
 ---
@@ -21,7 +22,8 @@ However, say X number of months pass and you want to re-predict who is going to 
 
 So be careful if you wantted to apply a model like this in your company. If you want to predict for the same employees but in different times in the future, then the models you have in these notebooks woun't do. There is still interest however in being able to distinguish the two populations as it gives you insight as to what makes them different!"
 
-
+Directory Structure
+--
 This directory structure of the Project is:
 1. Data :- folder containing raw data accessed to do the analysis on HR Sales
 2. Munge :- Folder contains scripts used to transform the data for upload to Hive repository
