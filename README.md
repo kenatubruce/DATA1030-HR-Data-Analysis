@@ -11,6 +11,7 @@ Contents:           Database Contents
 Visibility:         Public
 Maintainers:        pavansubhash pavansubhash
 Dataset owner:      pavansubhash
+File Name:          WA_Fn-UseC_-HR-Employee-Attrition.csv (222.63 KB)
 
 Updates 
 -------
@@ -22,4 +23,43 @@ Current version:            Version 1
 The data that was used in this analysis can be found at the link below:
 
 https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset/data
+
+Columns
+-------
+AgeNumérica - Discreta
+AttritionCategórica
+BusinessTravelCategórica
+DailyRateNumérica - Discreta
+DepartmentCategórica
+DistanceFromHomeNumérica - Discreta
+EducationCategórica
+EducationFieldCategórica
+EmployeeCountNumérica - Discreta
+EmployeeNumberNumérica - Discreta
+EnvironmentSatisfactionCategórica
+GenderCategórica
+HourlyRateNumérica - Discreta
+JobInvolvementCategórica
+JobLevelCategórica
+JobRoleCategórica
+JobSatisfactionCategórica
+MaritalStatusCategórica
+MonthlyIncomeNumérica - Discreta
+MonthlyRateNumérica - Discreta
+NumCompaniesWorkedNumérica - Discreta
+Over18Categórica
+OverTimeCategórica
+PercentSalaryHikeNumérica - Discreta
+PerformanceRatingCategórica
+RelationshipSatisfactionCategórica
+StandardHoursNumérica - Discreta
+StockOptionLevelCategórica
+TotalWorkingYearsNumérica - Discreta
+TrainingTimesLastYearNumérica - Discreta
+WorkLifeBalanceCategórica
+YearsAtCompanyNumérica - Discreta
+YearsInCurrentRoleNumérica - Discreta
+YearsSinceLastPromotionNumérica - Discreta
+YearsWithCurrManagerNumérica - Discreta
+
 
