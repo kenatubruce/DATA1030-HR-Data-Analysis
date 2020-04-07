@@ -1,7 +1,9 @@
 # DATA1030-HR-Data-Analysis
 Course DAT-1030 Assignment #5
 
-Problem describe
+The problem that being analyzed is how to try and predict the attrition of valuable employees. 
+The aim was to try and uncover the factors that lead to employee attrition and explore important questions such as ‘show me a breakdown of distance from home by job role and attrition’ or ‘compare average monthly income by education and attrition’. This is a fictional data set created by IBM data scientists. It is apart of the IBM HR Analytics Employee Attrition & Performance initiative.
+
 
 Insights found
 
