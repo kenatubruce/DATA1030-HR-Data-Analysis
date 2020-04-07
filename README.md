@@ -27,39 +27,39 @@ https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset/data
 Columns
 -------
 AgeNumérica - Discreta
-AttritionCategórica
-BusinessTravelCategórica
+Attrition - Categórica
+BusinessTravel - Categórica
 DailyRateNumérica - Discreta
-DepartmentCategórica
-DistanceFromHomeNumérica - Discreta
-EducationCategórica
-EducationFieldCategórica
-EmployeeCountNumérica - Discreta
-EmployeeNumberNumérica - Discreta
-EnvironmentSatisfactionCategórica
-GenderCategórica
-HourlyRateNumérica - Discreta
-JobInvolvementCategórica
-JobLevelCategórica
-JobRoleCategórica
-JobSatisfactionCategórica
-MaritalStatusCategórica
+Department - Categórica
+DistanceFromHome Numérica - Discreta
+Education - Categórica
+EducationField - Categórica
+EmployeeCount - Numérica - Discreta
+EmployeeNumber - Numérica - Discreta
+EnvironmentSatisfaction - Categórica
+Gender - Categórica
+HourlyRate - Numérica - Discreta
+JobInvolvement - Categórica
+JobLevel - Categórica
+JobRole - Categórica
+JobSatisfaction - Categórica
+MaritalStatus - Categórica
 MonthlyIncomeNumérica - Discreta
-MonthlyRateNumérica - Discreta
-NumCompaniesWorkedNumérica - Discreta
-Over18Categórica
-OverTimeCategórica
-PercentSalaryHikeNumérica - Discreta
-PerformanceRatingCategórica
-RelationshipSatisfactionCategórica
-StandardHoursNumérica - Discreta
-StockOptionLevelCategórica
-TotalWorkingYearsNumérica - Discreta
-TrainingTimesLastYearNumérica - Discreta
-WorkLifeBalanceCategórica
-YearsAtCompanyNumérica - Discreta
-YearsInCurrentRoleNumérica - Discreta
-YearsSinceLastPromotionNumérica - Discreta
-YearsWithCurrManagerNumérica - Discreta
+MonthlyRate - Numérica - Discreta
+NumCompaniesWorked - Numérica - Discreta
+Over18 - Categórica
+OverTime - Categórica
+PercentSalaryHike - Numérica - Discreta
+PerformanceRating - Categórica
+RelationshipSatisfaction - Categórica
+StandardHours - Numérica - Discreta
+StockOptionLevel - Categórica
+TotalWorkingYears - Numérica - Discreta
+TrainingTimesLastYear - Numérica - Discreta
+WorkLifeBalance - Categórica
+YearsAtCompany - Numérica - Discreta
+YearsInCurrentRole - Numérica - Discreta
+YearsSinceLastPromotion - Numérica - Discreta
+YearsWithCurrManager - Numérica - Discreta
 
 
