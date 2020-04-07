@@ -1,6 +1,10 @@
 # DATA1030-HR-Data-Analysis
 Course DAT-1030 Assignment #5
 
+Problem describe
+
+Insights found
+
 This directory structure of the Project is:
 1. Data :- folder containing raw data accessed to do the analysis on HR Sales
 2. Munge :- Folder contains scripts used to transform the data for upload to Hive repository
